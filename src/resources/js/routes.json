@@ -1,0 +1,20 @@
+{
+    "": "api\/user",
+    "users.index": "api\/users",
+    "users.create": "api\/users\/create",
+    "users.store": "api\/users",
+    "users.show": "api\/users\/{user}",
+    "users.edit": "api\/users\/{user}\/edit",
+    "users.update": "api\/users\/{user}",
+    "users.destroy": "api\/users\/{user}",
+    "home": "\/",
+    "about": "about",
+    "contact": "contact",
+    "contact-form": "contact\/submit",
+    "contact-data": "contact\/all",
+    "contact-data-one": "contact\/all\/{id}",
+    "contact-update": "contact\/all\/{id}\/update",
+    "contact-update-submit": "contact\/all\/{id}\/update",
+    "contact-delete": "contact\/all\/{id}\/delete",
+    "user": "user"
+}
